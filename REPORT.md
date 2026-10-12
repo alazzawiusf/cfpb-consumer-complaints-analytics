@@ -22,7 +22,7 @@ Complaint volume alone is an incomplete performance measure. A high-volume categ
 
 ### Product performance in 2025
 
-![Performance overview — complaint volume, response timeliness and product-level comparisons](/images/1_performance_overview.png)
+![Performance overview — complaint volume, response timeliness and product-level comparisons](images/1_performance_overview.png)
 
 *Figure — Performance overview — complaint volume, response timeliness and product-level comparisons.*
 
@@ -42,7 +42,7 @@ Complaint volume alone is an incomplete performance measure. A high-volume categ
 
 The monthly view reveals different rhythms for demand and response status.
 
-![Monthly performance — complaint volumes, untimely rates and changes over time](/images/2_Monthly%20Performance%20Analysis.png)
+![Monthly performance — complaint volumes, untimely rates and changes over time](images/2_Monthly%20Performance%20Analysis.png)
 
 *Figure — Monthly performance — complaint volumes, untimely rates and changes over time.*
 
@@ -73,7 +73,7 @@ The monthly view reveals different rhythms for demand and response status.
 
 The issue analysis helps distinguish the most common consumer-reported problems from those with the highest recorded late-response rates.
 
-![Issue analysis — complaint topics, frequency and timeliness differences](/images/4_Issue_Analysis.png)
+![Issue analysis — complaint topics, frequency and timeliness differences](images/4_Issue_Analysis.png)
 
 *Figure — Issue analysis — complaint topics, frequency and timeliness differences.*
 
@@ -92,7 +92,7 @@ The issue analysis helps distinguish the most common consumer-reported problems 
 
 ## 4 | Company-level investigation: explaining the CCS shift
 
-![Company analysis — variation in complaint volumes and response outcomes by company](/images/3_Company_Analysis.png)
+![Company analysis — variation in complaint volumes and response outcomes by company](images/3_Company_Analysis.png)
 
 *Figure — Company analysis — variation in complaint volumes and response outcomes by company.*
 
@@ -100,7 +100,7 @@ A particularly consequential outlier emerges when companies are compared within 
 
 ### A large break between two periods
 
-![CCS discrepancy investigation — response-rate break, evidence and decomposition](/images/6_Discrepancy_Investigation.png)
+![CCS discrepancy investigation — response-rate break, evidence and decomposition](images/6_Discrepancy_Investigation.png)
 
 *Figure — CCS discrepancy investigation — response-rate break, evidence and decomposition.*
 
@@ -144,7 +144,7 @@ This screening layer matters because it makes the investigative workflow explici
 
 A geographic view compares complaints attributed to the **50 U.S. states**, rather than treating all geographic codes as comparable. The state-only benchmark includes **477,871 complaints** and **9,451 untimely cases**, or **1.98%**. This benchmark excludes Washington, DC and other non-state jurisdictions; records with missing geography remain in the broader overall dataset.
 
-![Geographic analysis — state-level rate map, excess cases and geographic priorities](/images/5_Geographic_Analysis.png)
+![Geographic analysis — state-level rate map, excess cases and geographic priorities](images/5_Geographic_Analysis.png)
 
 *Figure — Geographic analysis — state-level rate map, excess cases and geographic priorities.*
 
@@ -176,7 +176,7 @@ Descriptive findings become more useful when stakeholders can see the implicatio
 
 ### Portfolio-wide scenario comparison
 
-![Baseline and what-if model — modeled changes in annual untimely complaints](/images/7_%20Baseline%20%26%20What-If%20Scenario%20Model.png)
+![Baseline and what-if model — modeled changes in annual untimely complaints](images/7_%20Baseline%20%26%20What-If%20Scenario%20Model.png)
 
 *Figure — Baseline and what-if model — modeled changes in annual untimely complaints.*
 
@@ -192,11 +192,11 @@ The strong case corresponds to a **48.6%** modeled reduction in untimely cases. 
 
 ### A decision target for debt collection
 
-![Sensitivity analysis — two-variable scenario comparison](/images/7_Sensitivity%20Analysis%20-%20Two-Variable%20Data%20Table.png)
+![Sensitivity analysis — two-variable scenario comparison](images/7_Sensitivity%20Analysis%20-%20Two-Variable%20Data%20Table.png)
 
 *Figure — Sensitivity analysis — two-variable scenario comparison.*
 
-![Goal Seek — required improvement to meet the specified target](/images/7_Goal%20Seek%20-%20Required%20Improvement%20Analysis.png)
+![Goal Seek — required improvement to meet the specified target](images/7_Goal%20Seek%20-%20Required%20Improvement%20Analysis.png)
 
 *Figure — Goal Seek — required improvement to meet the specified target.*
 
@@ -212,7 +212,7 @@ The model uses **10,000 seeded simulation runs**. It pairs monthly complaint vol
 
 ### Current-condition distribution
 
-![Monte Carlo outcomes — modeled distribution and illustrative 10,000-case threshold](/images/8_SIMULATED%20OUTCOME%20DISTRIBUTION%20VISUALIZATION.png)
+![Monte Carlo outcomes — modeled distribution and illustrative 10,000-case threshold](images/8_SIMULATED%20OUTCOME%20DISTRIBUTION%20VISUALIZATION.png)
 
 *Figure — Monte Carlo outcomes — modeled distribution and illustrative 10,000-case threshold.*
 
@@ -233,7 +233,7 @@ Debt collection contributes approximately **90.94%** to total simulated variance
 
 ### Targeted debt-collection scenarios
 
-![Scenario distribution comparison — current conditions versus 15% and 30% debt-collection improvements](/images/8_SCENARIO%20DISTRIBUTION%20COMPARISON.png)
+![Scenario distribution comparison — current conditions versus 15% and 30% debt-collection improvements](images/8_SCENARIO%20DISTRIBUTION%20COMPARISON.png)
 
 *Figure — Scenario distribution comparison — current conditions versus 15% and 30% debt-collection improvements.*
 
@@ -249,7 +249,7 @@ The zero exceedance outcomes are **observed simulation frequencies**, not proof 
 
 ## 9 | Business recommendations
 
-![Executive decision dashboard — combined KPIs, scenarios and modeled risk](/images/9_Decision_Dashboard.png)
+![Executive decision dashboard — combined KPIs, scenarios and modeled risk](images/9_Decision_Dashboard.png)
 
 *Figure — Executive decision dashboard — combined KPIs, scenarios and modeled risk.*
 
